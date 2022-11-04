@@ -1,7 +1,8 @@
 <div align="center">
   <h3>Kimnayeon
-  <h4><span style="color:#ff5252">Contact</span> ✉️ kimny7207@gmail.com
-    <br><br><hr>
+    <h4>Contact✉️ <a href="kimny7207@gmail.com">kimny7207@gmail.com</a><br><br>
+    <a href="https://velog.io/@kimny7207"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+      <br><br><hr>
 </div>
 
   <div align="center">
