@@ -1,9 +1,12 @@
-<div>
-  <h3>Kimnayeon Dev
-    <h4><span style="color:#ff5252">Contact</span> ✉️ kimny7207@gmail.com
-      <br><br><hr>
+<div align="center">
+  <h3>Kimnayeon
+  <h4><span style="color:#ff5252">Contact</span> ✉️ kimny7207@gmail.com
+    <br><br><hr>
+</div>
 
-  <h3>Skill 🛠<br><br>
+  <div align="center">
+    <h3>Skill 🛠
+      <br><br>
     <img src="https://img.shields.io/badge/Java-FA5858?style=flat-square&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
@@ -16,8 +19,9 @@
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/><br><br><hr><br>
+    <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
+      <br><br><hr><br>
+  </div>
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimnayeon&&show_icons=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimNayeon-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimnayeon&&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimNayeon-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
